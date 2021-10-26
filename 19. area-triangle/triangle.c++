@@ -15,5 +15,7 @@ int main(){
 
     area=(base/2)*height;
 
-    cout<<
+    cout<<"Area del triangulo es: "<<area<<endl;
+
+    return 0;
 }

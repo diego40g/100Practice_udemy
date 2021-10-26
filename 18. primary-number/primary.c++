@@ -12,9 +12,9 @@ int main(){
             if(!(x%y)){
                 break;
             }
-            if(y>(x/y)){
-                cout<<x<<" el numero es primo"<<endl;
-            }
+        }
+        if(y>(x/y)){
+            cout<<x<<" el numero es primo"<<endl;
         }
     }
 
